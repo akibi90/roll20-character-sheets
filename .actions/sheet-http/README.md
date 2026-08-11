@@ -8,3 +8,4 @@ NOTE: You will need to run `npm run build` and commit that change every time you
 in `index.ts`
 
 Raw source code of this is in roll20 private repo. This is just a compiled version.
+test
